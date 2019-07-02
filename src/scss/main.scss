@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,600|PT+Serif&display=swap&subset=cyrillic');
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+@import "~bootstrap/scss/grid";
+
+@import "base/vars";
+@import "base/mixins";
+@import "base/fonts";
+@import "base/global";
+
+@import "modules/header";
